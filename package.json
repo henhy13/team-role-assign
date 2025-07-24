@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "munkres-js": "^1.2.2",
+    "next": "^15.4.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "typescript": "^5.8.3",
+    "uuid": "^9.0.1",
+    "zod": "^4.0.8"
+  },
+  "name": "team-role-assign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henhy13/team-role-assign.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henhy13/team-role-assign/issues"
+  },
+  "homepage": "https://github.com/henhy13/team-role-assign#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "@types/react": "^19.1.8",
+    "@types/uuid": "^9.0.8",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6"
+  }
+}
